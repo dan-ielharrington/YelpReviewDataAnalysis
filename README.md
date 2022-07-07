@@ -2,8 +2,6 @@
 ***
 
 Daniel Harrington   
-CIS 9760  
-README 
 ***
 
 ### Project Description
